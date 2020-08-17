@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "fireship-auth-fcm": {
+      "hosting": {
+        "gAuth-fcm": [
+          "fireship-auth-fcm"
+        ]
+      }
+    }
+  }
+}
